@@ -12,6 +12,9 @@ body {
   color: #333;
   line-height: 1.6;
 }
+.menu-toggle{
+  display: none;
+}
 
 /* Header */
 header {
