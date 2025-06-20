@@ -381,13 +381,16 @@ margin-left: 50%;
   background-color: #fef8f3;
  
 }
-   .japa img{
-  width: 75%;
-  border-radius: 25px;
-  margin: 0px;
- 
-  padding-left: 0px;
+   .japa-text{
+  width: 50%;
+  height: 100%;
+  margin: 50px;
+
 }
+.japa img{
+  display: none;
+}
+   
 .Bhav img {
   margin-left: 0px;
   width: 100%;
